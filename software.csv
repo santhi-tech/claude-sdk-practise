@@ -1,0 +1,6 @@
+name|version|description|url|author
+python|3.11.4|Python is a programming language that lets you work quickly and integrate systems more effectively.|https://www.python.org/|Python Software Foundation
+pip|23.3.1|The PyPA recommended tool for installing Python packages.|https://pip.pypa.io/en/stable/|PyPA
+node|20.0.0|Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.|https://nodejs.org/|Node.js Foundation  
+npm|10.2.0|The package manager for Node.js.|https://www.npmjs.com/|Node.js Foundation
+curl|7.85.0|A command-line tool for transferring data with URL syntax.|https://curl.se/|Daniel Stenberg
